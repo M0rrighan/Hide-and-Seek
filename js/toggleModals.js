@@ -1,4 +1,3 @@
-// const openModalBtns = document.querySelectorAll('[href^="#Modal"]');
 const openModalBtns = document.querySelectorAll('article .action a');
 const closeModalBtns = document.querySelectorAll('.close_modal');
 const overlay = document.getElementsByClassName('overlay')[0];

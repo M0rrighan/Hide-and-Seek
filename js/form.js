@@ -22,8 +22,9 @@ form.addEventListener('submit', (e) => {
     email.style.border = '2px solid #d62814';
     e.preventDefault();
   } else {
-    alertMsg.style.visibility = 'hidden';
+    alertMsg.style.visibility = 'visible';
     email.style.border = '1px solid #d0d9d4';
+    e.preventDefault();
   }
 });
 

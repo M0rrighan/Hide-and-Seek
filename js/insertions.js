@@ -194,6 +194,6 @@ projects.forEach((project) => {
   portfolioContainer.appendChild(createCard(project));
 });
 
-projects.forEach((project) => {
+projects.forEach((pr) => {
   modalsContainer.appendChild(createModal(project));
 });
