@@ -1,13 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio
+# Portfolio (with Bugs)
 
-> Microverse Assigment: Copy of a Portfolio design from Figma Template (Template 1)
+> Microverse Assigment: Bugs: hide-and-seek
+Learning objectives
+Locate a bug using manual QA methods.
+Understand the importance of thoughtful, intentional problem-solving.
+Identify how developer tools are used in debugging front-end code.
 
-![screenshot](./screenshots/desktop_screenshots.jpg)
-![screenshot](./screenshots/mobile_screenshots.jpg)
-![screenshot](./screenshots/popup_mob_desk_screenshots.jpg)
-
+## -----------------------
+## Original Portfolio (without Bugs?)
 ## Live Demo
 
 [Live Demo Link](https://m0rrighan.github.io/Portfolio/)
