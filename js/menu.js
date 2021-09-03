@@ -16,7 +16,7 @@ function hideMenu() {
   body.style.overflow = 'auto';
 }
 
-openMenuBtn.addEventListener('click', showMenu);
+openMenuBtn.addEventListener('click', showMenu());
 closeMenuBtn.addEventListener('click', hideMenu);
 
 navLinks.forEach((link) => {
